@@ -1,0 +1,10 @@
+#taskList li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
